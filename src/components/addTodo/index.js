@@ -1,7 +1,7 @@
 import React from 'react';
 
-const AddTodo = () => {
+const AddTodo = () => (
   <div />
-};
+);
 
 export default AddTodo;
